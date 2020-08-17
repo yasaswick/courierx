@@ -14,12 +14,6 @@
     <string name="menu_slideshow">Slideshow</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="greeting_1">We’ll deliver your package to wherever you want ; whenever you want!</string>
-    <string name="forgot_password">FORGOT PASSWORD ?</string>
-    <string name="email_hint">Enter your Email</string>
-    <string name="snd_pkg">Send Package</string>
-    <string name="untrk">Untracked</string>
-    <string name="desc_trkd">Starting from 400LKR Islandwide</string>
-    <string name="sgnup">Sign Up</string>
+
 
 </resources>
