@@ -12,7 +12,7 @@
 
         <activity android:name=".updateStatus"/>
 
-        <activity android:name=".deliveryDtls" >
+        <activity android:name=".deliveryDtls" />
 
         <activity android:name=".Home">
             <intent-filter>
