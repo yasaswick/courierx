@@ -9,26 +9,29 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <activity android:name=".updateStatus"/>
 
         <activity android:name=".deliveryDtls" >
+
+        <activity android:name=".Home">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
         <activity android:name=".locationDtls" />
-
         <activity android:name=".setDelivery" />
-
         <activity android:name=".findPackage"/>
-
         <activity android:name=".Tracking" />
         <activity android:name=".SignUp" />
         <activity android:name=".Login" />
-        <activity android:name=".MainActivity" />
+        <activity android:name=".UserHome" />
+        <activity android:name=".MainActivity">
+          
+          
+
     </application>
 
 </manifest>

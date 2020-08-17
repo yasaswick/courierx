@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">We’ll deliver your package to wherever you want ; whenever you want!</string>
+    <string name="name">Tin Tin Samarawickrama</string>
+    <string name="email">tintinadventures@gmail.com</string>
+    <string name="logout">Logout</string>
+    <string name="uid">UDMF92DS23</string>
+    <string name="mail">Email : </string>
+    <string name="newhere">NEW HERE ?</string>
+    <string name="welcome_to_x">Welcome to CourierX</string>
+    <string name="password_hint">Enter your Password</string>
+    <string name="service_desc">Please chose a service to get started!</string>
+    <string name="trk_pkg">Track Package</string>
+    <string name="pkg_desc">We offer two types of delivery, Our affordable basic type is with-out tracking where our premium type comes with tracking functionality</string>
+    <string name="trked">Tracked</string>
+    <string name="desc_untracked">Starting from 200LKR Islandwide</string>
+    <string name="hv_acc">Have an account already?</string>
+    <string name="repeat_pswd" >Repeat Password</string>
+    <string name="phn">Phone Number</string>
+    <string name="postal">Postal Address</string>
+    <string name="greeting_1">We’ll deliver your package to wherever you want ; whenever you want!</string>
+    <string name="forgot_password">FORGOT PASSWORD ?</string>
+    <string name="email_hint">Enter your Email</string>
+    <string name="snd_pkg">Send Package</string>
+    <string name="untrk">Untracked</string>
+    <string name="desc_trkd">Starting from 400LKR Islandwide</string>
+    <string name="sgnup">Sign Up</string>
+
+</resources>
