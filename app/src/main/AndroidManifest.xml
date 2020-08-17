@@ -9,6 +9,28 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         <activity android:name=".trackedAndPickedDelivery"></activity>
         <activity android:name=".trackedAndNotPicked">
             <intent-filter>
@@ -18,10 +40,6 @@
         </activity>
         <activity android:name=".packageDetails"></activity>
         <activity android:name=".SearchRecepient"></activity>
-        <activity android:name=".SignUp" />
-        <activity android:name=".Login" />
-        <activity android:name=".MainActivity" />
-
         <meta-data
             android:name="com.google.android.gms.ads.AD_MANAGER_APP"
             android:value="true" />
