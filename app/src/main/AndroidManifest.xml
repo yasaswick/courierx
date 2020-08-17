@@ -39,7 +39,6 @@
             <activity android:name=".SearchRecepient"></activity>
             <activity android:name=".updateStatus"/>
             <activity android:name=".deliveryDtls" />
-
     </application>
 
 </manifest>
