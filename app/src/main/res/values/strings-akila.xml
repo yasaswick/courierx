@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="selectRecepient">Select Recipient</string>
+    <string name="searchQuote">Please enter the email or the User ID of the recipient</string>
+    <string name="pkgHeading">Package Details</string>
+    <string name="pkgID">Package ID</string>
+    <string name="dscriptn">Description</string>
+    <string name="weight">Weight</string>
+    <string name="sdDate">Sheduled Date</string>
+    <string name="txtpkgID">CT12458 </string>
+    <string name="txtdescription" />
+    <string name="txtWeight" />
+    <string name="txtdate" />
+    <string name="chkbxFragile" />
+    <string name="btnproceed">PROCEED</string>
+    <string name="delivry">Delivery Details</string>
+    <string name="pkgId">Package ID</string>
+    <string name="idvalue">CT12354</string>
+    <string name="dcsription">Description</string>
+    <string name="desValue">Fancy Bag</string>
+    <string name="txtRecipnt">Anuradha Edirisinghe</string>
+    <string name="lblAdded">Added Date</string>
+    <string name="txtAdDate">08/07/2020</string>
+    <string name="lblSheduled">Sheduled Date</string>
+    <string name="txtSheduledDt">08/24/2020</string>
+    <string name="fragile">Is this fragile?</string>
+    <string name="lblRecipint">Recipient</string>
+    <string name="lblPkdDate">Picked Up Date</string>
+    <string name="pkdValue">08/13/2020</string>
+    <string name="lblTrkID">Track ID</string>
+    <string name="trkValue">TK12324</string>
+    <string name="lblLastLoc">Last Tracked Location</string>
+    <string name="locValue">Anuradhapura</string>
+    <string name="lblNotPkd">--/--/----</string>
+    <string name="lblSndr">Sender</string>
+    <string name="txtsndr">Harshani Dole</string>
+    <string name="txtUnknLoc">None</string>
+</resources>
