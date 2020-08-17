@@ -17,6 +17,17 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="deleteA">Delete Account</string>
+    <string name="pw_req">Change Password Request</string>
+    <string name="chEmail">Change Email</string>
+    <string name="edAdd">Edit Address</string>
+    <string name="em">"Email : "</string>
+    <string name="e_mail">"Email : "</string>
+    <string name="addr">"Address : "</string>
+    <string name="tin_name">Tin Tin Rastapopulous</string>
+    <string name="userid">UDMF92DS23</string>
+    <string name="since">Joined 10 months ago</string>
+    <string name="homeAdd">14/2, MarlinSpike Hall, Colombo</string>
 
 
 </resources>
