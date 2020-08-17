@@ -18,7 +18,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.374"
-        tools:text="Account No.: 2789 0098 9732" />
+        tools:text="@string/accntno" />
 
     <TextView
         android:id="@+id/textView17"
@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.127"
-        tools:text="Current Balance" />
+        tools:text="@string/cbalance" />
 
     <ImageView
         android:id="@+id/imageView"
@@ -58,7 +58,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.284"
-        tools:text="User ID : WX2653879AD" />
+        tools:text="@string/uid" />
 
     <TextView
         android:id="@+id/textView19"
@@ -72,7 +72,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.329"
-        tools:text="Name : Tulip" />
+        tools:text="@string/username" />
 
     <TextView
         android:id="@+id/textView21"
@@ -86,7 +86,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.606"
-        tools:text="YOUR CURRENT BALANCE " />
+        tools:text="@string/msg" />
 
     <TextView
         android:id="@+id/textView22"
@@ -99,7 +99,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.689"
-        tools:text="2000.00 LKR" />
+        tools:text="@string/value" />
 
     <TextView
         android:id="@+id/textView23"

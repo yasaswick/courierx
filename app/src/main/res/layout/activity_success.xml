@@ -16,7 +16,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.78"
-        tools:text="Total Amount to be Paid" />
+        tools:text="@string/total" />
 
     <Button
         android:id="@+id/button"
@@ -43,7 +43,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.204"
-        tools:text="You are all set, all we just need is a payment to wrap things up." />
+        tools:text="@string/user_msg" />
 
     <TextView
         android:id="@+id/textView5"
@@ -55,7 +55,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.85"
         app:layout_constraintStart_toStartOf="parent"
-        tools:text="200.00 LKR" />
+        tools:text="@string/value4" />
 
     <TextView
         android:id="@+id/textView2"
@@ -68,7 +68,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.108"
-        tools:text="Pay" />
+        tools:text="@string/pay" />
 
     <ImageView
         android:id="@+id/imageView2"
@@ -94,7 +94,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.598"
-        tools:text="Delivery Charge :" />
+        tools:text="@string/delivery_charge" />
 
     <TextView
         android:id="@+id/textView4"
@@ -107,7 +107,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.653"
-        tools:text="Extras :" />
+        tools:text="@string/extra" />
 
     <TextView
         android:id="@+id/textView6"
@@ -120,6 +120,6 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.742"
-        tools:text="200.00 LKR" />
+        tools:text="@string/value5" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

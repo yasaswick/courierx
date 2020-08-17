@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.184"
-        tools:text="Success!" />
+        tools:text="@string/success" />
 
     <TextView
         android:id="@+id/textView9"
@@ -31,7 +31,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.755"
-        tools:text="Thank you for choosing CourierX. Your details have been recorded. One of our agents will come and pick up your package soon." />
+        tools:text="@string/message" />
 
     <Button
         android:id="@+id/button2"

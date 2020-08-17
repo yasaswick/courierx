@@ -28,7 +28,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.125"
-        tools:text="Payemnt" />
+        tools:text="@string/payment" />
 
     <ImageView
         android:id="@+id/imageView4"
@@ -54,7 +54,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.474"
-        tools:text="Current balance :" />
+        tools:text="@string/c_balance" />
 
     <TextView
         android:id="@+id/textView12"
@@ -67,7 +67,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.543"
-        tools:text="Pay Amount :" />
+        tools:text="@string/payamount" />
 
     <TextView
         android:id="@+id/textView13"
@@ -80,7 +80,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.619"
-        tools:text="New balance :" />
+        tools:text="@string/n_balace" />
 
     <TextView
         android:id="@+id/textView14"
@@ -92,7 +92,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.477"
-        tools:text="1000.00 LKR" />
+        tools:text="@string/value1" />
 
     <TextView
         android:id="@+id/textView15"
@@ -104,7 +104,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.546"
-        tools:text="200.00 LKR" />
+        tools:text="@string/value2" />
 
     <TextView
         android:id="@+id/textView16"
@@ -116,7 +116,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.615"
-        tools:text="800.00 LKR" />
+        tools:text="@string/value3" />
 
     <Button
         android:id="@+id/button3"

@@ -17,7 +17,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.131"
-        tools:text="Add Payment" />
+        tools:text="@string/add" />
 
     <ImageView
         android:id="@+id/imageView6"
@@ -42,7 +42,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.451"
-        tools:text="User ID : WX2653879AD" />
+        tools:text="@string/userid" />
 
     <TextView
         android:id="@+id/textView31"
@@ -55,7 +55,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.499"
-        tools:text="Name : Tulip" />
+        tools:text="@string/name" />
 
     <TextView
         android:id="@+id/textView32"
@@ -68,7 +68,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.553"
-        tools:text="Account No.: 2789 0098 9732" />
+        tools:text="@string/accno" />
 
     <TextView
         android:id="@+id/textView34"
@@ -80,7 +80,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.602"
-        tools:text="Current Balance : 800.00 LKR" />
+        tools:text="@string/balance" />
 
     <TextView
         android:id="@+id/textView35"
@@ -93,7 +93,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.695"
-        tools:text="Add Payment :" />
+        tools:text="@string/addpay" />
 
     <EditText
         android:id="@+id/editTextNumber"
@@ -128,7 +128,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="-59dp">
+        tools:layout_editor_absoluteY="0dp">
         <!-- Main content -->
 
         <com.google.android.material.bottomnavigation.BottomNavigationView
