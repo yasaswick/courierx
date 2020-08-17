@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">CourierX</string>
+    <string name="description">We offer two types of delivery, Our affordable basic type is with-out tracking where our premium type comes with tracking functionality</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="greeting_1">We’ll deliver your package to wherever you want ; whenever you want!</string>
+    <string name="forgot_password">FORGOT PASSWORD ?</string>
+    <string name="email_hint">Enter your Email</string>
+    <string name="snd_pkg">Send Package</string>
+    <string name="untrk">Untracked</string>
+    <string name="desc_trkd">Starting from 400LKR Islandwide</string>
+    <string name="sgnup">Sign Up</string>
+
 </resources>
