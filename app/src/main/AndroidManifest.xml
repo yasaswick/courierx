@@ -9,32 +9,36 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-
-        <activity android:name=".updateStatus"/>
-
-        <activity android:name=".deliveryDtls" />
-
-        <activity android:name=".Home">
+        <activity android:name=".SignUp"></activity>
+        <activity android:name=".Login" />
+            <activity android:name=".Home"/>
+        <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".locationDtls" />
-        <activity android:name=".setDelivery" />
-        <activity android:name=".findPackage"/>
-        <activity android:name=".Tracking" />
-        <activity android:name=".SignUp" />
-        <activity android:name=".Login" />
-        <activity android:name=".UserHome" />
-        <activity android:name=".MainActivity"/>
-        <activity android:name=".trackedAndPickedDelivery"></activity>
-        <activity android:name=".trackedAndNotPicked"/>
-        <activity android:name=".packageDetails"></activity>
-        <activity android:name=".SearchRecepient"></activity>
-
-
+            <activity android:name=".test"></activity>
+            <activity android:name=".AddPay" />
+            <activity android:name=".SearchUser" />
+            <activity android:name=".Balance" />
+            <activity android:name=".Payment" />
+            <activity android:name=".Pay" />
+            <activity android:name=".Success" />
+            <activity android:name=".locationDtls" />
+            <activity android:name=".setDelivery" />
+            <activity android:name=".findPackage"/>
+            <activity android:name=".Tracking" />
+            <activity android:name=".SignUp" />
+            <activity android:name=".Login" />
+            <activity android:name=".UserHome" />
+            <activity android:name=".MainActivity"/>
+            <activity android:name=".trackedAndPickedDelivery"></activity>
+            <activity android:name=".trackedAndNotPicked"/>
+            <activity android:name=".packageDetails"></activity>
+            <activity android:name=".SearchRecepient"></activity>
+            <activity android:name=".updateStatus"/>
+            <activity android:name=".deliveryDtls" />
 
     </application>
 

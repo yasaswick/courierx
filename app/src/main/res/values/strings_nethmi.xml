@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="description1">we\'ll track your package location and show you when ever you want.</string>
+    <string name="title1">Track your Package</string>
+    <string name="description2">TRACKING ID IS THE 12 DIGIT NUMBER YOU RECIEVED FROM THE SENDER</string>
+    <string name="Trackingid">Tracking ID:</string>
+    <string name="sampleid">XU345907N65D</string>
+    <string name="description">The package is on its way, its latest location updates are as follows</string>
+    <string name="date">Date: 8/15/2020</string>
+    <string name="time">Time: 3.48p.m</string>
+    <string name="location">Boralla</string>
+    <string name="Remainingtime">"Remaining time : 2 hr "</string>
+    <string name="phone">Contact deliver person</string>
+    <string name="msg">Message  delivery person</string>
+    <string name="rating">Rate us</string>
+    <string name="settings">Settings</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="title">Get set delivery</string>
+    <string name="description3">" start sharing the current location of package."</string>
+    <string name="description4">Search for the package to set the current location</string>
+    <string name="cancel">cancel</string>
+    <string name="Done">Done</string>
+    <string name="name">Name</string>
+    <string name="UpdateStatus">Update Status</string>
+    <string name="name2">"Shameer "</string>
+    <string name="sample2">XU345907N65D</string>
+    <string name="sample3">LSADAD234234</string>
+    <string name="description5">Share your current location:</string>
+    <string name="description6">Confirm when delivery is done:</string>
+    <string name="ConfirmDelivery">"Confirm Delivery "</string>
+    <string name="Set">Set</string>
+    <string name="View">View</string>
+    <string name="Locationdetails">Location details</string>
+    <string name="Status">Status :</string>
+    <string name="Status1">Status</string>
+    <string name="Pending">Pending</string>
+    <string name="Time">Time</string>
+    <string name="date2">Date</string>
+    <string name="Location">Location</string>
+    <string name="sample4">7:30 AM - 29 DEC 2020</string>
+    <string name="sample6">Borella</string>
+    <string name="Deliverydetails">Delivery details</string>
+    <string name="date3">4/5/2020</string>
+</resources>
