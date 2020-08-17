@@ -1,2 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">CourierX</string>
+    <string name="add">Add Payment</string>
+    <string name="userid">User ID : WX2653879AD</string>
+    <string name="name">Name : Tulip</string>
+    <string name="accno">Account No.: 2789 0098 9732</string>
+    <string name="balance">Current Balance : 800.00 LKR</string>
+    <string name="addpay">Add Payment :</string>
+    <string name="cbalance">Current Balance</string>
+    <string name="accntno">Account No.: 2789 0098 9732</string>
+    <string name="uid">User ID : WX2653879AD</string>
+    <string name="username">Name : Tulip</string>
+    <string name="msg">YOUR CURRENT BALANCE</string>
+    <string name="value">2000.00 LKR</string>
+    <string name="success">Success!</string>
+    <string name="message">Thank you for choosing CourierX. Your details have been recorded. One of our agents will come and pick up your package soon.</string>
+    <string name="search">Search User</string>
+    <string name="id">"User ID : "</string>
+    <string name="user_name">User Name :</string>
+    <string name="payment">Payemnt</string>
+    <string name="c_balance">Current balance :</string>
+    <string name="payamount">Pay Amount :</string>
+    <string name="n_balace">New balance :</string>
+    <string name="value1">1000.00 LKR</string>
+    <string name="value2">200.00 LKR</string>
+    <string name="value3">800.00 LKR</string>
+    <string name="total">Total Amount to be Paid</string>
+    <string name="user_msg">You are all set, all we just need is a payment to wrap things up.</string>
+    <string name="value4">200.00 LKR</string>
+    <string name="pay">Pay</string>
+    <string name="delivery_charge">Delivery Charge :</string>
+    <string name="extra">Extras :</string>
+    <string name="value5">200.00 LKR</string>
+</resources>
